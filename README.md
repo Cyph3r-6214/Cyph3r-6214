@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cyph3r-6214&label=Profile%20views&color=0e75b6&style=flat" alt="cyph3r-6214" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cyph3r-6214&label=Profile%20views&color=0e75b6&style=flat" alt="Cyph3r-6214" /> </p>
 
 
 <h1 align="center">
@@ -49,5 +49,6 @@
 <hr>
 <hr>
 <h3 align="center">My Contributions:</h3>
+![snake gif](https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake.gif)
 <hr>
 <hr>
