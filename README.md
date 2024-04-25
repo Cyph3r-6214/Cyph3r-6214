@@ -65,4 +65,3 @@
 <hr>
 <hr>
 
-https://events.qnl.qa/static/logos/69426/a90a74821355f2a7857034a4c0105fae.jpg
