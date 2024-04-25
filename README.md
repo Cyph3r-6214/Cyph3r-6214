@@ -1,4 +1,4 @@
-<img src="https://events.qnl.qa/static/logos/69426/a90a74821355f2a7857034a4c0105fae.jpg" alt="Banner" style="width:100%;">
+<img width="100%" src="https://static.vecteezy.com/system/resources/previews/023/673/743/non_2x/cloud-technology-background-cloud-computing-cloud-storage-sign-with-two-arrows-up-and-down-icon-binary-code-data-flow-virtual-tunnel-warp-made-with-digital-code-illustration-vector.jpg" alt="Banner">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cyph3r-6214&label=Profile%20views&color=0e75b6&style=flat" alt="Cyph3r-6214" /> </p>
 
@@ -64,3 +64,5 @@
 </p>
 <hr>
 <hr>
+
+https://events.qnl.qa/static/logos/69426/a90a74821355f2a7857034a4c0105fae.jpg
