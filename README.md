@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <a href="https://portfolio-pgarcia.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=todoist&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-F99A66?style=for-the-badge&logo=todoist&logoColor=white">
   </a>
   <a href="mailto:1982pedrogarcia@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
