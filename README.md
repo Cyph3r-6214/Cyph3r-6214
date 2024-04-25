@@ -39,9 +39,11 @@
 <hr>
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyph3r-6214&show_icons=true&locale=en&layout=compact" alt="cyph3r-6214" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyph3r-6214&show_icons=true&locale=en&layout=compact" alt="cyph3r-6214" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyph3r-6214&show_icons=true&locale=en" alt="cyph3r-6214" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3r-6214&" alt="cyph3r-6214" /></p>
+</div>
 <hr>
