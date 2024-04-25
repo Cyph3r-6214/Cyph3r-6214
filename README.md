@@ -49,6 +49,6 @@
 <hr>
 <hr>
 <h3 align="center">My Contributions:</h3>
-![snake gif](https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Cyph3r-6214/Cyph3r-6214/output/github-contribution-grid-snake.svg">
 <hr>
 <hr>
