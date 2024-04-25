@@ -58,7 +58,7 @@
 <hr>
 <h3 align="center">My Contributions:</h3>
 <p align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake-dark.svg" width="500" />
+  <img alt="snake eating my contributions" src="https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake.svg" width="600" /> 
 </p>
 <hr>
 <hr>
