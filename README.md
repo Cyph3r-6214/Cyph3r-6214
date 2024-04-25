@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
 
-- 💬 Ask me about **snowboarding**
+- 💬 Ask me about **snowboarding & running**
 
 - 📄 Know about my experiences & reach me:
 
