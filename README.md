@@ -2,12 +2,11 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=1000&color=60E41B&center=true&random=false&width=435&lines=Hello%2C+World+&#x1F44B;&#x1F3FC+;I'm+Cyph3R-6214" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=1000&color=60E41B&center=true&random=false&width=435&lines=Hello%2C+World+&#x1F44B;&#x1F3FC+;I'm+Cyph3R-6214" alt="Typing SVG"  /></a>
 </h1>
 
-
 <h2 align="center">An amateur frontend, web designer, web developer, & papa bear</h2>
-
+<h4  align="center">welcome to my GitHub</h4>
 
 <hr>
 <p >
@@ -58,6 +57,8 @@
 <hr>
 <hr>
 <h3 align="center">My Contributions:</h3>
-<p><img align="center" alt="snake eating my contributions" src="https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake-dark.svg" width="1000" />
+<p align="center">
+  <img alt="snake eating my contributions" src="https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake-dark.svg" width="500" />
+</p>
 <hr>
 <hr>
