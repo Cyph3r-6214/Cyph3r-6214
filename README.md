@@ -31,15 +31,18 @@
 <!--===== CONTENT LEFT =============-->
 <div>
   
-   - I’m currently working on **Responsive Personal Portfolio**
+   - 🔭 I’m currently working on: **Responsive Personal Portfolio**
      
-   - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
+   - 🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
 
-   - 💬 Ask me about **snowboarding & running**
-
-   - 📄 Know about my experiences & reach me:
+   - 💬 Ask me about: **snowboarding & running**
      
-  <div align="center"> 
+   - ⚡ Fun fact: **dogs > cats**
+
+   - 📄 Know about my experiences: [Portfolio](Portfolio)
+     
+   - 📫 How to reach me:  
+  <sec align="left"> 
     <a href="https://portfolio-pgarcia.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-F99A66?style=for-the-badge&logo=todoist&logoColor=white">
     </a>
@@ -49,7 +52,7 @@
     <a href="https://www.linkedin.com/in/pedro-garcia-150391302" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-  </div>
+  </sec>
 </div>
 
 <hr>
