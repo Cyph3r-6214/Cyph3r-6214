@@ -23,6 +23,8 @@
 
 <div>
   <p>
+   - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
+  
    - 🔭 I’m currently working on **Responsive Personal Portfolio**
 
    - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
