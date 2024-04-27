@@ -13,7 +13,7 @@
 <hr>
   
 <div>
-<p >
+<p>
 <img align="right" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" />
 </p>
 </div>
@@ -22,17 +22,15 @@
 <br>
 
 <div>
-  <p>
-   <br><br>
+    
   
-   - 🔭 I’m currently working on **Responsive Personal Portfolio**
-
+   - I’m currently working on **Responsive Personal Portfolio**
+     
    - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
 
    - 💬 Ask me about **snowboarding & running**
 
    - 📄 Know about my experiences & reach me:
-  </p>
 <div align="center"> 
   <a href="https://portfolio-pgarcia.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F99A66?style=for-the-badge&logo=todoist&logoColor=white">
