@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=1000&color=60E41B&center=true&random=false&width=435&lines=Hello%2C+World+&#x1F44B;&#x1F3FC+;I'm+Cyph3R-6214" alt="Typing SVG"  /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=1000&color=60E41B&center=true&random=false&width=435&lines=Hello%2C+World+&#x1F44B;&#x1F3FC+;I'm+Cyph3R-6214" alt="Typing SVG"/></a>
 </h1>
 
 <h2 align="center">An amateur web designer & web developer</h2>
@@ -15,7 +15,6 @@
 <img align="right" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" />
 </p>
 
-<br>
 <br>
 <br>
 
