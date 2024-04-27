@@ -22,14 +22,15 @@
 <br>
 
 <div>
-- 🔭 I’m currently working on **Responsive Personal Portfolio**
+  <p>
+   - 🔭 I’m currently working on **Responsive Personal Portfolio**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
+   - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
 
-- 💬 Ask me about **snowboarding & running**
+   - 💬 Ask me about **snowboarding & running**
 
-- 📄 Know about my experiences & reach me:
-
+   - 📄 Know about my experiences & reach me:
+  </p>
 <div align="center"> 
   <a href="https://portfolio-pgarcia.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F99A66?style=for-the-badge&logo=todoist&logoColor=white">
