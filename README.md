@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=1000&color=60E41B&center=true&random=false&width=435&lines=Hello%2C+World+&#x1F44B;&#x1F3FC+;I'm+Cyph3R-6214" alt="Typing SVG"  /></a>
 </h1>
 
-<h2 align="center">An amateur frontend, web designer, web developer, & papa bear</h2>
+<h2 align="center">An amateur web designer & web developer</h2>
 <h4  align="center">welcome to my GitHub</h4>
 
 <hr>
