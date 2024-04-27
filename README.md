@@ -23,7 +23,7 @@
 
 <div>
   <p>
-   - 🌱 I’m currently learning **HTML, CSS, JavaScript, & Python**
+   <br><br>
   
    - 🔭 I’m currently working on **Responsive Personal Portfolio**
 
