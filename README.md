@@ -28,21 +28,24 @@
 <br>
 <br>
 <!--===== CONTENT LEFT =============-->
-<div align="center">
+
+<hr>
+<hr>
   
-🔭 I’m currently working on: **Responsive Personal Portfolio**
+<div align="center">
+ 🔭 I’m currently working on: **Responsive Personal Portfolio**
      
-🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
+ 🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
 
-💬 Ask me about: **snowboarding & running**
+ 💬 Ask me about: **snowboarding & running**
      
-⚡ Fun fact: **dogs > cats**
+ ⚡ Fun fact: **dogs > cats**
 
-📄 Know about my experiences: [Portfolio](Portfolio)
+ 📄 Know about my experiences: [Portfolio](Portfolio)
      
-📫 How to reach me:
-
+ 📫 How to reach me:
 </div>
+
 <div align="center">
   <a href="mailto:_" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -56,7 +59,7 @@
 <hr>
 
 <!--===== SOCIAL ICONS =============-->  
-<h3 align="center">Connect with me : </h3>
+<h3 align="center">Connect with me: </h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-garcia-150391302" height="30" width="40" /></a>
   <a href="https://instagram.com/www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/pgar_71782/"   height="30" width="40" /></a>
