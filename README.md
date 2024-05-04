@@ -30,17 +30,17 @@
 <!--===== CONTENT LEFT =============-->
 <div>
   
-   - 🔭 I’m currently working on: **Responsive Personal Portfolio**
+🔭 I’m currently working on: **Responsive Personal Portfolio**
      
-   - 🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
+🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
 
-   - 💬 Ask me about: **snowboarding & running**
+💬 Ask me about: **snowboarding & running**
      
-   - ⚡ Fun fact: **dogs > cats**
+⚡ Fun fact: **dogs > cats**
 
-   - 📄 Know about my experiences: [Portfolio](Portfolio)
+📄 Know about my experiences: [Portfolio](Portfolio)
      
-   - 📫 How to reach me:
+📫 How to reach me:
 
 </div>
 <div align="center">
