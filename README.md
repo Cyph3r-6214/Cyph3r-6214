@@ -37,7 +37,7 @@
 
   📄 Know about my experiences: [Portfolio](Portfolio)
      
- 📫 How to reach me:
+  📫 How to reach me:
 </div>
 
 <div align="center">
