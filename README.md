@@ -12,8 +12,8 @@
 </h1>
 
 <!--===== HEADER & SUBHEADING ======-->
-<h2 align="center">An amateur web designer & web developer</h2>
-<h4  align="center">welcome to my GitHub</h4>
+<h2 align="center">Amatuer Coder, Life long learner</h2>
+<h4  align="center">🌸🌸 my Github 🌸🌸</h4>
 
 <hr>
 <hr>
@@ -41,9 +41,6 @@
      
    - 📫 How to reach me:  
   <sec align="left"> 
-    <a href="https://portfolio-pgarcia.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-F99A66?style=for-the-badge&logo=todoist&logoColor=white">
-    </a>
     <a href="mailto:_" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
