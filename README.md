@@ -35,7 +35,7 @@
 <br>
 <br>
   
-<div align="center">
+<div align="left">
  🔭 I’m currently working on: **Responsive Personal Portfolio**
      
  🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
