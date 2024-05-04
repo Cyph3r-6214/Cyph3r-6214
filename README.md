@@ -26,15 +26,16 @@
 <hr>
 <!--===== CONTENT LEFT =============-->
 <div align="left">
- 🔭 I’m currently working on: **Personal Portfolio**
+  
+  🔭 I’m currently working on: **Personal Portfolio**
      
- 🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
+  🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
 
- 💬 Ask me about: **snowboarding & running**
+  💬 Ask me about: **snowboarding & running**
      
- ⚡ Fun fact: **dogs > cats**
+  ⚡ Fun fact: **dogs > cats**
 
- 📄 Know about my experiences: [Portfolio](Portfolio)
+  📄 Know about my experiences: [Portfolio](Portfolio)
      
  📫 How to reach me:
 </div>
