@@ -20,7 +20,10 @@
 <!--===== GIF ======================-->
 <div>
   <p>
-    <img align="center" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
+    <img align="left" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
+  </p>
+  <p>
+    <img align="right" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" />
   </p>
 </div>
 <hr>
@@ -29,7 +32,7 @@
   
   🔭 I’m currently working on: **Personal Portfolio**
      
-  🌱 I’m currently learning: **HTML, CSS, JavaScript, & Python**
+  🌱 I’m currently learning: **HTML, CSS, & JavaScript**
 
   💬 Ask me about: **snowboarding & running**
      
