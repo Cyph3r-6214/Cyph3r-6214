@@ -23,8 +23,6 @@
     <img align="center" height="300" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
   </p>
 </div>
-<br>
-<br>
 <!--===== CONTENT LEFT =============-->
 <div align="left">
  🔭 I’m currently working on: **Responsive Personal Portfolio**
