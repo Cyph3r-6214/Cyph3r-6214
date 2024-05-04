@@ -33,17 +33,17 @@
 
 <div align="left">
   
-  🔭 I’m currently working on:<br>**Personal Portfolio**
+  🔭 I’m currently working on: **Personal Portfolio**
      
-  🌱 I’m currently learning:<br>**HTML, CSS, JavaScript, & Python**
+  🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-  💬 Ask me about:<br>**snowboarding, running, PC gaming**
+  💬 Ask me about: **snowboarding, running, PC gaming**
      
-  ⚡ Fun fact:<br>**dogs > cats**
+  ⚡ Fun fact: **dogs > cats**
 
   📄 Know about my experiences: [Portfolio](Portfolio)
      
-  📫 How to reach me: 👇
+  📫 How to reach me:  👇
 
 </div>
 
