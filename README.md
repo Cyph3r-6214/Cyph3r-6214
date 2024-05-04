@@ -33,21 +33,23 @@
 
 <div align="left">
   
-  🔭 I’m currently working on: **Personal Portfolio**
+  🔭 I’m currently working on:<br>**Personal Portfolio**
      
-  🌱 I’m currently learning: **HTML, CSS, & JavaScript**
+  🌱 I’m currently learning:<br>**HTML, CSS, JavaScript, & Python**
 
-  💬 Ask me about: **snowboarding & running**
+  💬 Ask me about:<br>**snowboarding, running, PC gaming**
      
-  ⚡ Fun fact: **dogs > cats**
+  ⚡ Fun fact:<br>**dogs > cats**
 
   📄 Know about my experiences: [Portfolio](Portfolio)
      
-  📫 How to reach me:
+  📫 How to reach me: 👇
+
 </div>
 
 <br>
 <br>
+
 <div align="center">
   <a href="mailto:_" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -64,7 +66,8 @@
 
 <br>
 <br>
-<!--===== SOCIAL ICONS =============-->  
+<!--===== SOCIAL ICONS =============--> 
+
 <h3 align="center">Connect with me: </h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-garcia-150391302" height="30" width="40" /></a>
@@ -75,6 +78,7 @@
 <hr>
 
 <!--===== STATS CHARTS =============-->
+
 <h3 align="center">My Stats : </h3>
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyph3r-6214&show_icons=true&locale=en&layout=compact" alt="cyph3r-6214" /></p>
@@ -86,6 +90,7 @@
 <hr>
 
 <!--===== SNAKE CONTRIBUTION =======-->
+
 <h3 align="center">My Contributions : </h3>
   <p align="center">
     <img alt="snake eating my contributions" src="https://github.com/Cyph3r-6214/Cyph3r-6214/blob/output/github-contribution-grid-snake.svg" width="600" /> 
