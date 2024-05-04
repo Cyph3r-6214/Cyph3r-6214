@@ -16,6 +16,7 @@
 <h4  align="center">🌸🌸 my Github 🌸🌸</h4>
 <hr>
 <hr>
+
 <!--===== CONTENT RIGHT ============-->
 <!--===== GIF ======================-->
 <div>
@@ -26,8 +27,10 @@
     <img align="right" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" />
   </p>
 </div>
-<hr>
+
 <!--===== CONTENT LEFT =============-->
+<br>
+
 <div align="left">
   
   🔭 I’m currently working on: **Personal Portfolio**
@@ -43,6 +46,8 @@
   📫 How to reach me:
 </div>
 
+<br>
+<br>
 <div align="center">
   <a href="mailto:_" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -51,6 +56,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<br>
+
+<hr>
+<hr>
+
 <br>
 <br>
 <!--===== SOCIAL ICONS =============-->  
