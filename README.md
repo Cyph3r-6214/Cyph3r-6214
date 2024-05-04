@@ -29,8 +29,11 @@
 <br>
 <!--===== CONTENT LEFT =============-->
 
-<hr>
-<hr>
+<br>
+<br>
+  
+<br>
+<br>
   
 <div align="center">
  🔭 I’m currently working on: **Responsive Personal Portfolio**
