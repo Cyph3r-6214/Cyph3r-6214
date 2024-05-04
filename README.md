@@ -17,15 +17,16 @@
 
 <hr>
 <hr>
-
+<br>
 <!--===== CONTENT RIGHT ============-->
 <!--===== GIF ======================-->
 <div>
   <p>
-    <img align="right" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
+    <img align="right" height="300" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
   </p>
 </div>
-
+<br>
+<br>
 <!--===== CONTENT LEFT =============-->
 <div>
   
@@ -39,8 +40,11 @@
 
    - 📄 Know about my experiences: [Portfolio](Portfolio)
      
-   - 📫 How to reach me:  
-  <sec align="left"> 
+   - 📫 How to reach me:
+
+</div>
+<div>
+  <sec align="center"> 
     <a href="mailto:_" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
