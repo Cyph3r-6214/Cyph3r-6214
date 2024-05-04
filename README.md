@@ -1,5 +1,5 @@
 <!--===== BANNER ===================-->
-<img width="100%" src="https://static.vecteezy.com/system/resources/previews/023/673/743/non_2x/cloud-technology-background-cloud-computing-cloud-storage-sign-with-two-arrows-up-and-down-icon-binary-code-data-flow-virtual-tunnel-warp-made-with-digital-code-illustration-vector.jpg" alt="Banner">
+<img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="binary banner" width="100%" />
 
 <!--===== VISITOR COUNTER ==========-->
 <p align="right"> 
