@@ -28,7 +28,7 @@
 <br>
 <br>
 <!--===== CONTENT LEFT =============-->
-<div>
+<div align="center">
   
 🔭 I’m currently working on: **Responsive Personal Portfolio**
      
