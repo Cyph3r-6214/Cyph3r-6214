@@ -56,10 +56,13 @@
 </a>
 </div>
 
+<br>
+
 <hr>
 <hr>
 
 <!--===== GIF =============--> 
+<br>
 <p>
   <img align="center" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"/>
 </p>
