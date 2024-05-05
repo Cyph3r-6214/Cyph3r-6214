@@ -20,30 +20,27 @@
 <!--===== CONTENT RIGHT ============-->
 <!--===== GIF ======================-->
 <div>
-  <p>
-    <img align="left" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c" />
-  </p>
-  <p>
-    <img align="right" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" />
-  </p>
+<p>
+  <img align="left" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c"   />
+</p>
 </div>
 
-<!--===== CONTENT LEFT =============-->
+<!--===== CONTENT RIGHT =============-->
 <br>
 
 <div align="left">
   
-  🔭 I’m currently working on: **Personal Portfolio**
+&nbsp;  🔭 I’m currently working on: **Personal Portfolio**
      
-  🌱 I’m currently learning: **HTML, CSS, JavaScript**
+&nbsp;  🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-  💬 Ask me about: **snowboarding, running, PC gaming**
+&nbsp;  💬 Ask me about: **snowboarding, running, PC &nbsp;&nbsp;gaming**
      
-  ⚡ Fun fact: **dogs > cats**
+&nbsp;  ⚡ Fun fact: **dogs > cats**
 
-  📄 Know about my experiences: [Portfolio](Portfolio)
+&nbsp;  📄 Know about my experiences: [Portfolio](Portfolio)
      
-  📫 How to reach me:  👇
+&nbsp;  📫 How to reach me:  👇
 
 </div>
 
@@ -51,23 +48,22 @@
 <br>
 
 <div align="center">
-  <a href="mailto:_" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="mailto:_" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
-<br>
-
 <hr>
 <hr>
 
-<br>
-<br>
-<!--===== SOCIAL ICONS =============--> 
-
+<!--===== GIF =============--> 
+<p>
+  <img align="center" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"/>
+</p>
+<!--===== SOCIAL ICONS =============-->
 <h3 align="center">Connect with me: </h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-garcia-150391302" height="30" width="40" /></a>
@@ -80,11 +76,14 @@
 <!--===== STATS CHARTS =============-->
 
 <h3 align="center">My Stats : </h3>
+
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyph3r-6214&show_icons=true&locale=en&layout=compact" alt="cyph3r-6214" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyph3r-6214&show_icons=true&locale=en" alt="cyph3r-6214" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3r-6214&" alt="cyph3r-6214" /></p>
 </div>
+
+<br>
 
 <hr>
 <hr>
