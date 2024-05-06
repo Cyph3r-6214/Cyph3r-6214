@@ -27,9 +27,10 @@
 
 <!--===== CONTENT RIGHT =============-->
 <br>
-
+<br>
+<br>
 <div align="left">
-  
+
 &nbsp;  🔭 I’m currently working on: **Personal Portfolio**
      
 &nbsp;  🌱 I’m currently learning: **HTML, CSS, JavaScript**
