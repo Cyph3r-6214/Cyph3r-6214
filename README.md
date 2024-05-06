@@ -19,31 +19,16 @@
 
 <!--===== CONTENT RIGHT ============-->
 <!--===== GIF ======================-->
-<div>
+<div align="center">
 <p>
-  <img align="left" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c"   />
+  <img align="center" height="350" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-0f300004c555663076c530d9a2abf11c"   />
 </p>
 </div>
 
 <!--===== CONTENT RIGHT =============-->
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-  
 <div align="left">
 
   🔭 I’m currently working on: **Personal Portfolio**
@@ -79,7 +64,7 @@
 
 <!--===== GIF =============--> 
 <br>
-<p>
+<p align="center">
   <img align="center" height="350" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"/>
 </p>
 <!--===== SOCIAL ICONS =============-->
