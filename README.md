@@ -34,7 +34,7 @@
      
 &nbsp;  🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-&nbsp;  💬 Ask me about: **snowboarding, running, PC &nbsp;&nbsp;gaming**
+&nbsp;  💬 Ask me about: **snowboarding, running, PC gamer**
      
 &nbsp;  ⚡ Fun fact: **dogs > cats**
 
