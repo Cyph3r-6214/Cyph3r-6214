@@ -42,22 +42,21 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
   
 <div align="left">
 
-&nbsp;  🔭 I’m currently working on: **Personal Portfolio**
+  🔭 I’m currently working on: **Personal Portfolio**
      
-&nbsp;  🌱 I’m currently learning: **HTML, CSS, JavaScript**
+  🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-&nbsp;  💬 Ask me about: **snowboarding, running, PC gamer**
+  💬 Ask me about: **snowboarding, running, PC gamer**
      
-&nbsp;  ⚡ Fun fact: **dogs > cats**
+  ⚡ Fun fact: **dogs > cats**
 
-&nbsp;  📄 Know about my experiences: [Portfolio](Portfolio)
+  📄 Know about my experiences: [Portfolio](Portfolio)
      
-&nbsp;  📫 How to reach me:  👇
+  📫 How to reach me:  👇
 
 </div>
 
